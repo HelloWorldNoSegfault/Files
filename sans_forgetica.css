@@ -2,5 +2,5 @@
   font-family: 'myFont';
   font-style: normal;
   font-weight: 400;
-  src: local('myFont'), url(https://github.com/HelloWorldNoSegfault/Files/raw/master/SansForgetica-Regular.otf) format('otf');
+  src: url(https://github.com/HelloWorldNoSegfault/Files/raw/master/SansForgetica-Regular.otf) format('opentype');
 }
